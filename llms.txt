@@ -3,7 +3,7 @@
 > Narrow Gate is a Christian Bible app for iPhone (iOS 17 and later) by Morning Harbor LLC. It puts Scripture where people already look: Bible verse widgets on the Lock Screen and Home Screen, verse wallpapers, a short prayer before the apps a person chooses, and the whole Bible one verse at a time. Formerly called Prayer Gate.
 
 - App Store: https://apps.apple.com/app/id6809065584
-- Four full Bibles inside the app, offline: King James Version (KJV), World English Bible (WEB), Berean Standard Bible (BSB), American Standard Version (ASV).
+- Four full Bibles inside the app, offline: King James Version (KJV), World English Bible (WEB), Berean Standard Bible (BSB) and American Standard Version (ASV).
 - No account or sign-in. Reading stays on the iPhone and the person's own iCloud. No IP address or location is collected.
 - Reading the Bible is free. Verse widgets, wallpapers, the prayer before apps, reminders and verse-by-verse Scroll are part of a subscription; prices are shown in the App Store.
 - iPhone only. Available in the United States.
