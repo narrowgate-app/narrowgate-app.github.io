@@ -1,0 +1,26 @@
+# Narrow Gate
+
+> Narrow Gate is a Christian Bible app for iPhone (iOS 17 and later) by Morning Harbor LLC. It puts Scripture where people already look: Bible verse widgets on the Lock Screen and Home Screen, verse wallpapers, a short prayer before the apps a person chooses, and the whole Bible one verse at a time. Formerly called Prayer Gate.
+
+- App Store: https://apps.apple.com/app/id6809065584
+- Four full Bibles inside the app, offline: King James Version (KJV), World English Bible (WEB), Berean Standard Bible (BSB), American Standard Version (ASV).
+- No account or sign-in. Reading stays on the iPhone and the person's own iCloud. No IP address or location is collected.
+- Reading the Bible is free. Verse widgets, wallpapers, the prayer before apps, reminders and verse-by-verse Scroll are part of a subscription; prices are shown in the App Store.
+- iPhone only. Available in the United States.
+
+## Features
+
+- [Bible verse widgets for iPhone](https://narrowgatebibleapp.com/bible-verse-widget): Lock Screen and Home Screen (small and wide) widgets. The verse changes every hour, three times a day or once a day, from themes such as hope, peace, anxiety, forgiveness and the words of Jesus, or one chosen verse stays.
+- [A prayer before your apps](https://narrowgatebibleapp.com/pray-before-apps): a Christian screen time app. The person picks apps with Apple's Screen Time; opening one shows a block screen, and a short Scripture prayer (25 seconds to 5 minutes) opens them until the next lock time. Light (once a day), Medium (three times a day) or Strong (every hour).
+- [The Bible one verse at a time](https://narrowgatebibleapp.com/bible-one-verse-at-a-time): swipe up through the whole Bible, one verse per screen, with search by reference or words.
+
+## Guides
+
+- [How to put a Bible verse on your iPhone Lock Screen](https://narrowgatebibleapp.com/bible-verse-on-iphone-lock-screen)
+
+## Help
+
+- [Support](https://narrowgatebibleapp.com/support.html)
+- [Privacy policy](https://narrowgatebibleapp.com/privacy.html)
+- [Terms of use](https://narrowgatebibleapp.com/terms.html)
+- Contact: narrowgateapp@icloud.com
